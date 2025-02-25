@@ -2,7 +2,7 @@
 > This repository contains projects related to software quality assurance, complexity analysis, and human-computer interaction (HCI) modeling.
 
 ## 📜 About
-The assignments and project involve:
+The assignments involve:
 
 - **Petri Net Modeling**
 - **Keystroke-Level Model & Usability Testing**
